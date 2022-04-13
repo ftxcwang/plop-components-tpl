@@ -6,7 +6,7 @@
     "plop": "plop"
   },
   "repository": "https://github.com/ftxcwang/plop-components-tpl.git",
-  "author": "wangqiang <wangqiang73@guazi.com>",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "plop": "^3.0.5"
